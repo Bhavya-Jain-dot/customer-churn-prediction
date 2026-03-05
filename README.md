@@ -1,3 +1,4 @@
+
 # Customer Churn Prediction using Artificial Neural Networks
 
 This project predicts whether a bank customer is likely to leave (churn)
@@ -50,3 +51,6 @@ customer will churn.
 
 Bhavya
 
+=======
+# customer-churn-prediction
+Customer churn prediction using ANN and TensorFlow
